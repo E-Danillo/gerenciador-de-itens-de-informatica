@@ -1,4 +1,4 @@
-💻 Gerenciador de Itens de Informática
+💻 Gerenciador de Itens de Informática:
 Este é um projeto simples em Java para gerenciar itens de informática, classificando-os em Hardware e Software, e tratando a gestão de estoque com a capacidade de lidar com itens duplicados ou não encontrados.
 
 🚀 Estrutura do Projeto

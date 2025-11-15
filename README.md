@@ -12,4 +12,10 @@ Um sistema completo em **Java** para gerenciar itens de informática, incluindo 
 - Estrutura **orientada a objetos**, organizada e fácil de expandir  
 - Ideal para aprendizado de **Java e conceitos de OOP**
 
+- ## 🚀 Como usar
+
+1. Clone este repositório:  
+```bash
+git clone https://github.com/E-Danillo/gerenciador-de-itens-de-informatica.git
+
 ---

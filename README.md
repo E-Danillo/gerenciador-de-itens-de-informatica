@@ -1,6 +1,6 @@
 # 💻 Gerenciador de Estoque de Informática
 
-> Um sistema completo em **Java** para gerenciar itens de informática, incluindo hardware e software, com tratamento de exceções e organização de inventário. 📦✨
+Um sistema completo em **Java** para gerenciar itens de informática, incluindo hardware e software, com tratamento de exceções e organização de inventário. 📦✨
 
 ---
 

@@ -17,5 +17,3 @@ Um sistema completo em **Java** para gerenciar itens de informática, incluindo 
 1. Clone este repositório:  
 ```bash
 git clone https://github.com/E-Danillo/gerenciador-de-itens-de-informatica.git
-
----
